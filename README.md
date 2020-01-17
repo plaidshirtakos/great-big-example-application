@@ -4,6 +4,8 @@
 [![Join the chat at https://gitter.im/jhipster/generator-jhipster](https://badges.gitter.im/jhipster/generator-jhipster.svg)](https://gitter.im/jhipster/generator-jhipster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://angular.io/styleguide)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## [Live Demo on Heroku](https://great-big-example-application.herokuapp.com/)
 If this
 doesn't work, it's probably because it exceeds Heroku's 500MB memory quota for the free tier.
